@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Alireza Seif 👋</h1>
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/alireza-seif-6a3246158/" target="_blank">
+  <img src="https://img.icons8.com/fluent/60/000000/linkedin.png" />
+ </a>
+</p>
 
 <!--
 **alirezaseif28/alirezaseif28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
